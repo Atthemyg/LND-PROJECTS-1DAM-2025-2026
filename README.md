@@ -1,5 +1,7 @@
 # Lenguaje de marcas
 
+- [HTML + CSS](#HTML+CSS)
+    - [Simulador de creación de una cuenta](#crearcuenta)
 - [HTML + CSS + JavaScript](#HTML+CSS+JavaScript)
 
     - [Bombilla](#bombilla)
@@ -7,6 +9,16 @@
     - [Dado](#dado)
  
 <br>
+
+## HTML + CSS
+
+### Simulador de creación de una cuenta
+
+Interfaz gráfica de un formulario que permite introducir tus datos para crear una cuenta.
+
+<br>
+
+<img src="img/CrearCuenta.png">
 
 ## HTML + CSS + JavaScript
 
