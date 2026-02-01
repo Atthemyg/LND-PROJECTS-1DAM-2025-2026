@@ -20,6 +20,8 @@ Interfaz gráfica de un formulario que permite introducir tus datos para crear u
 
 <img src="img/CrearCuenta.png">
 
+<br>
+
 ## HTML + CSS + JavaScript
 
 ### Bombilla
