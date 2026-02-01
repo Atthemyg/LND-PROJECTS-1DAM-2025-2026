@@ -1,0 +1,116 @@
+<html>
+        <head>
+            <title>Crear cuenta</title>
+            <meta charset="utf-8">
+            <style>
+                body {
+                    margin:0;
+                    display:flex;
+                    align-items:center;
+                    justify-content:center;
+                    font-family:sans-serif;
+                    background-image:linear-gradient( #667eea, #764ba2);
+                }
+
+                .card {
+                    background:white;
+                    width:100%;
+                    max-width:420px;
+                    padding:2.5em;
+                    border-radius:16px;
+                    box-shadow: 0 20px 40px #1f2022ff;
+                }
+
+                h1 {
+                margin:1.5em;
+                text-align:center;
+                font-size:1.8em;
+                color: #1f2937;
+                }
+
+                .field {
+                margin-bottom:1.2em;
+                }
+
+                label {
+                    margin-bottom:1em;
+                    font-size:1em;
+                    font-weight:600;
+                    color: #56606eff;
+                }
+
+                input {
+                    width:100%;
+                    padding:1em;
+                    border-radius:8px;
+                    border:2px solid #d1d5db;
+                    font-size:1em;
+                }
+
+                input:focus {
+                    outline:none;
+                    border-color: #667eea;
+                }
+
+                button {
+                    width:100%;
+                    margin-top:1em;
+                    padding:1em;
+                    border-radius:10px;
+                    border-color: #d1d5db;
+                    background-color: #a37fcaff;
+                    color:white;
+                    font-size:1em;
+                    font-weight:600;
+                    cursor: pointer;
+                }
+
+                button:hover {
+                    background-color: #667eea;
+                }
+
+                .hint {
+                    margin-top:1em;
+                    text-align:center;
+                    font-size:1em;
+                    color: #454a55ff;
+                }
+
+            </style>
+        </head>
+        <body>
+                <div class="card">
+                    <h1>Crear cuenta</h1>
+                    <form action="http://lnd.angelmelchor.pro/test.php" method="post" enctype="multipart/form-data">
+                        
+                        <div class="field">
+                            <label for="nombre">Nombre</label>
+                            <br>
+                            <input type="text" id="nombre" name="var1">
+                        </div>
+
+                        <div class="field">
+                            <label for="correo">Correo electrónico</label>
+                            <br>
+                            <input type="email" id="correo" name="var2">
+                        </div>
+                        
+                        <div class="field">
+                            <label for="contraseña">Contraseña</label>
+                            <br>
+                            <input type="password" id="contraseña" name="var3">
+                        </div>
+
+                        <div class="field">
+                            <label for="confirmar">Confirma tu contraseña</label>
+                            <br>
+                            <input type="password" id="confirmar" name="confirmar">
+                        </div>   
+
+                        <button type="submit" value="Crear tu cuenta">Confirmar</button>
+
+                        <div class="hint">Tus datos están protegidos 🔒</div>
+                    </form>
+                </div>
+        </body>
+</html>
