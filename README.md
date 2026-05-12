@@ -33,8 +33,8 @@ El clásico juego de memorizar cartas. Cuenta los movimientos realizados como pu
 
 <table align="center">
   <tr>
-    <td><img src="img/CartasSinRevelar.png" width="500"></td>
-    <td><img src="img/CartasReveladas.png" width="500"></td>
+    <td><img src="img/CartasSinRevelar.PNG" width="500"></td>
+    <td><img src="img/CartasReveladas.PNG" width="500"></td>
   </tr>
 </table>
 
