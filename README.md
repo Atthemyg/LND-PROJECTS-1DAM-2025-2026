@@ -4,7 +4,7 @@
     - [Simulador de creación de una cuenta](#crearcuenta)
 - [HTML + CSS + JavaScript](#HTML+CSS+JavaScript)
 
-    - [Memory Card Game](#memorycardgame)
+    - [MemoryCardGame](#memorycardgame)
     - [Bombilla](#bombilla)
     - [Loteria](#loteria)
     - [Dado](#dado)
