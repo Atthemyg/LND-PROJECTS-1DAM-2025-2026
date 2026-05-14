@@ -1,0 +1,91 @@
+body {
+  font-family: Arial;
+  background: #efe2ed;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color:#856d82;
+}
+
+#addBtn {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  background-color: #c8afc4;
+  color:white;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  border: solid;
+  border-color: white;
+}
+
+#notes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.note {
+  background: white;
+  width: 250px;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  border: none;
+  resize: none;
+  outline: none;
+  font-size: 16px;
+}
+
+.deleteBtn {
+  margin-top: 10px;
+  background: rgb(163, 13, 13);
+  color: white;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: solid;
+  border-color: #f9f2f8;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+#searchInput {
+  padding: 12px;
+  width: 300px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  border-radius: 5px;
+  border: none;
+  font-size: 15px;
+}
+
+.note small {
+  display: block;
+  margin-bottom: 10px;
+  color: gray;
+}
+
+.pinBtn {
+  margin-top: 10px;
+  background: #c8afc4;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 100%;
+  border: solid;
+  border-color: #f9f2f8;
+}

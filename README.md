@@ -7,6 +7,7 @@
     - [Bombilla](#bombilla)
     - [Loteria](#loteria)
     - [Dado](#dado)
+    - [Bloc de notas](#blocdenotas)
     - [Memory Card Game](#memorycardgame)
  
 <br>
@@ -67,6 +68,20 @@ Al pulsar el botón "Roll the dice" aparece un número del 1 al 6 al azar.
   </tr>
 </table>
 
+
+## Bloc de notas
+
+Bloc de notas. Se pueden buscar, fijar y aparece la fecha en la que se crea.
+
+<br>
+
+<table align="center">
+  <tr>
+    <td><img src="img/Notas.PNG" width="500"></td>
+  </tr>
+</table>
+
+
 ## Memory Card Game
 
 El clásico juego de memorizar cartas. Cuenta los movimientos realizados como puntuación.
@@ -79,4 +94,5 @@ El clásico juego de memorizar cartas. Cuenta los movimientos realizados como pu
     <td><img src="img/CartasReveladas.PNG" width="515"></td>
   </tr>
 </table>
+
 
