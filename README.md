@@ -77,7 +77,7 @@ Bloc de notas. Se pueden buscar, fijar y aparece la fecha en la que se crea.
 
 <table align="center">
   <tr>
-    <td><img src="img/Notas.PNG" width="500"></td>
+    <td><img src="img/Notas.PNG" width="800"></td>
   </tr>
 </table>
 
