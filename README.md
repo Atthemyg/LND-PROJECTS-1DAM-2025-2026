@@ -75,11 +75,7 @@ Bloc de notas. Se pueden buscar, fijar y aparece la fecha en la que se crea.
 
 <br>
 
-<table align="center">
-  <tr>
-    <td><img src="img/Notas.PNG" width="800"></td>
-  </tr>
-</table>
+<img src="img/Notas.PNG" width="800"></td>
 
 
 ## Memory Card Game
