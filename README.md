@@ -4,10 +4,10 @@
     - [Simulador de creación de una cuenta](#crearcuenta)
 - [HTML + CSS + JavaScript](#HTML+CSS+JavaScript)
 
-    - [Memory Card Game](#memorycardgame)
     - [Bombilla](#bombilla)
     - [Loteria](#loteria)
     - [Dado](#dado)
+    - [Memory Card Game](#memorycardgame)
  
 <br>
 
@@ -24,20 +24,6 @@ Interfaz gráfica de un formulario que permite introducir tus datos para crear u
 <br>
 
 ## HTML + CSS + JavaScript
-
-## Memory Card Game
-
-El clásico juego de memorizar cartas. Cuenta los movimientos realizados como puntuación.
-
-<br>
-
-<table align="center">
-  <tr>
-    <td><img src="img/CartasSinRevelar.PNG" width="500"></td>
-    <td><img src="img/CartasReveladas.PNG" width="515"></td>
-  </tr>
-</table>
-
 
 ### Bombilla
 
@@ -80,3 +66,17 @@ Al pulsar el botón "Roll the dice" aparece un número del 1 al 6 al azar.
     <td><img src="img/DadoNumero.png" width="500"></td>
   </tr>
 </table>
+
+## Memory Card Game
+
+El clásico juego de memorizar cartas. Cuenta los movimientos realizados como puntuación.
+
+<br>
+
+<table align="center">
+  <tr>
+    <td><img src="img/CartasSinRevelar.PNG" width="500"></td>
+    <td><img src="img/CartasReveladas.PNG" width="515"></td>
+  </tr>
+</table>
+
